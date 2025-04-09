@@ -17,3 +17,6 @@ De código, imágenes, comandos, etc.
 
 Documentar dependencias o tecnologías usadas
 Como frameworks, lenguajes, librerías, etc.
+
+
+vamos ha hacer un commit
